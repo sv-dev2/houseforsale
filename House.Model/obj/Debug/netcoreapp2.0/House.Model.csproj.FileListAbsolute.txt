@@ -1,0 +1,9 @@
+F:\Ashwani\Projects\Robert\Houese.Forsale\House.Model\bin\Debug\netcoreapp2.0\House.Model.deps.json
+F:\Ashwani\Projects\Robert\Houese.Forsale\House.Model\bin\Debug\netcoreapp2.0\House.Model.dll
+F:\Ashwani\Projects\Robert\Houese.Forsale\House.Model\bin\Debug\netcoreapp2.0\House.Model.pdb
+F:\Ashwani\Projects\Robert\Houese.Forsale\House.Model\obj\Debug\netcoreapp2.0\House.Model.csprojResolveAssemblyReference.cache
+F:\Ashwani\Projects\Robert\Houese.Forsale\House.Model\obj\Debug\netcoreapp2.0\House.Model.csproj.CoreCompileInputs.cache
+F:\Ashwani\Projects\Robert\Houese.Forsale\House.Model\obj\Debug\netcoreapp2.0\House.Model.AssemblyInfoInputs.cache
+F:\Ashwani\Projects\Robert\Houese.Forsale\House.Model\obj\Debug\netcoreapp2.0\House.Model.AssemblyInfo.cs
+F:\Ashwani\Projects\Robert\Houese.Forsale\House.Model\obj\Debug\netcoreapp2.0\House.Model.dll
+F:\Ashwani\Projects\Robert\Houese.Forsale\House.Model\obj\Debug\netcoreapp2.0\House.Model.pdb

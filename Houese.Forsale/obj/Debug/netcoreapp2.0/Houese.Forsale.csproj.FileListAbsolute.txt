@@ -1,0 +1,13 @@
+F:\Ashwani\Projects\Robert\Houese.Forsale\Houese.Forsale\bin\Debug\netcoreapp2.0\Houese.Forsale.deps.json
+F:\Ashwani\Projects\Robert\Houese.Forsale\Houese.Forsale\bin\Debug\netcoreapp2.0\Houese.Forsale.runtimeconfig.json
+F:\Ashwani\Projects\Robert\Houese.Forsale\Houese.Forsale\bin\Debug\netcoreapp2.0\Houese.Forsale.runtimeconfig.dev.json
+F:\Ashwani\Projects\Robert\Houese.Forsale\Houese.Forsale\bin\Debug\netcoreapp2.0\Houese.Forsale.dll
+F:\Ashwani\Projects\Robert\Houese.Forsale\Houese.Forsale\bin\Debug\netcoreapp2.0\Houese.Forsale.pdb
+F:\Ashwani\Projects\Robert\Houese.Forsale\Houese.Forsale\obj\Debug\netcoreapp2.0\Houese.Forsale.csprojResolveAssemblyReference.cache
+F:\Ashwani\Projects\Robert\Houese.Forsale\Houese.Forsale\obj\Debug\netcoreapp2.0\Houese.Forsale.csproj.CoreCompileInputs.cache
+F:\Ashwani\Projects\Robert\Houese.Forsale\Houese.Forsale\obj\Debug\netcoreapp2.0\Houese.Forsale.AssemblyInfoInputs.cache
+F:\Ashwani\Projects\Robert\Houese.Forsale\Houese.Forsale\obj\Debug\netcoreapp2.0\Houese.Forsale.AssemblyInfo.cs
+F:\Ashwani\Projects\Robert\Houese.Forsale\Houese.Forsale\obj\Debug\netcoreapp2.0\Houese.Forsale.dll
+F:\Ashwani\Projects\Robert\Houese.Forsale\Houese.Forsale\obj\Debug\netcoreapp2.0\Houese.Forsale.pdb
+F:\Ashwani\Projects\Robert\Houese.Forsale\Houese.Forsale\bin\Debug\netcoreapp2.0\House.Model.dll
+F:\Ashwani\Projects\Robert\Houese.Forsale\Houese.Forsale\bin\Debug\netcoreapp2.0\House.Model.pdb

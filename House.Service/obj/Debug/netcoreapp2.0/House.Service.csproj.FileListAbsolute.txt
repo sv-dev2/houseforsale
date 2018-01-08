@@ -1,0 +1,11 @@
+F:\Ashwani\Projects\Robert\Houese.Forsale\House.Service\bin\Debug\netcoreapp2.0\House.Service.deps.json
+F:\Ashwani\Projects\Robert\Houese.Forsale\House.Service\bin\Debug\netcoreapp2.0\House.Service.dll
+F:\Ashwani\Projects\Robert\Houese.Forsale\House.Service\bin\Debug\netcoreapp2.0\House.Service.pdb
+F:\Ashwani\Projects\Robert\Houese.Forsale\House.Service\bin\Debug\netcoreapp2.0\House.Model.dll
+F:\Ashwani\Projects\Robert\Houese.Forsale\House.Service\bin\Debug\netcoreapp2.0\House.Model.pdb
+F:\Ashwani\Projects\Robert\Houese.Forsale\House.Service\obj\Debug\netcoreapp2.0\House.Service.csprojResolveAssemblyReference.cache
+F:\Ashwani\Projects\Robert\Houese.Forsale\House.Service\obj\Debug\netcoreapp2.0\House.Service.csproj.CoreCompileInputs.cache
+F:\Ashwani\Projects\Robert\Houese.Forsale\House.Service\obj\Debug\netcoreapp2.0\House.Service.AssemblyInfoInputs.cache
+F:\Ashwani\Projects\Robert\Houese.Forsale\House.Service\obj\Debug\netcoreapp2.0\House.Service.AssemblyInfo.cs
+F:\Ashwani\Projects\Robert\Houese.Forsale\House.Service\obj\Debug\netcoreapp2.0\House.Service.dll
+F:\Ashwani\Projects\Robert\Houese.Forsale\House.Service\obj\Debug\netcoreapp2.0\House.Service.pdb
